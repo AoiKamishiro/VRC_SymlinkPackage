@@ -1,6 +1,6 @@
 # VRC Symlink Package
 ### About
-複数の UnityProject で、 VRCSDK, UdonSharp などのアセットを一か所で管理する際に役立つかもしれないスクリプトです。 
+複数の UnityProject で、 VRCSDK, UdonSharp などのアセットを一か所で管理する際に役立つかもしれないスクリプトです。   
 プロジェクト内から、一か所に展開された Unitypackage の中身へ纏めてシンボリックリンクを作成します。  
 以下の様なリンクの作成を、纏めて一つのコマンドで処理できます。  
 * C:\Packages\Assets\VRCSDK <--> C:\Users\user\UnityPriject\Assets\VRCSDK
